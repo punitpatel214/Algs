@@ -1,3 +1,5 @@
 rootProject.name = 'algs'
 include 'group'
+include 'graph'
+include 'graph'
 
